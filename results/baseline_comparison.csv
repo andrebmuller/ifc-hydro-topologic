@@ -1,0 +1,3 @@
+model,accuracy,auroc
+RandomForest,0.98,1.0
+MLP,0.92,0.9944852941176471
